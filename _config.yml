@@ -1,0 +1,28 @@
+name: AJKITCHENS
+favicon: null
+layout_spectrum: 0.3041791489813477
+typography_spectrum: 0.20154533185996115
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8153810114599764
+  lightness: 0.15225127269513905
+  saturation: 0.05632640328258276
+  rhythmicContrast: 0.4949193161446601
+purpose: []
