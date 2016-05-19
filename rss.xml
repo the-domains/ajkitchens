@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AJKITCHENS]]></title>
+        <description><![CDATA[AJKITCHENS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 14:57:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/775f6027-e233-4071-b3c1-0a13241d1377.jpg">]]></description>
+            <link>undefinedwe-have-over-20-years-experience-in-fitting-kitchens-around/index.html</link>
+            <guid isPermaLink="false">8cfba3cb-f72d-41c3-b35e-7d56a7b3b505</guid>
+            <pubDate>Thu, 19 May 2016 14:43:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
