@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AJKITCHENS]]></title>
         <description><![CDATA[AJKITCHENS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ajkitchens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 14:57:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 14:57:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ajkitchens/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/033b566b-bdad-4aea-8350-99886ad22df8.jpg">]]></description>
+            <link>https://thegrid.ai/ajkitchens/8eedcc98-e98a-43ff-bba1-0ef6aa44d1af/index.html</link>
+            <guid isPermaLink="false">8eedcc98-e98a-43ff-bba1-0ef6aa44d1af</guid>
+            <pubDate>Thu, 19 May 2016 14:43:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/775f6027-e233-4071-b3c1-0a13241d1377.jpg">]]></description>
-            <link>undefinedwe-have-over-20-years-experience-in-fitting-kitchens-around/index.html</link>
+            <link>https://thegrid.ai/ajkitchens/we-have-over-20-years-experience-in-fitting-kitchens-around/index.html</link>
             <guid isPermaLink="false">8cfba3cb-f72d-41c3-b35e-7d56a7b3b505</guid>
             <pubDate>Thu, 19 May 2016 14:43:13 GMT</pubDate>
         </item>
